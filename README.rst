@@ -17,3 +17,4 @@ in class.  More resources may be added here throughout the semester:
 - `Getting Started with GitHub Desktop <https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop>`_
 - `Git Basics <https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/>`_
 - `Common Git Commands <https://www.freecodecamp.org/news/git-cheat-sheet/>`_
+- `GitHub Desktop basics (video) <https://drive.google.com/file/d/1rST30CqNH3go07fZnY7GI7ChHB3zvEjc/view?usp=sharing>`_
